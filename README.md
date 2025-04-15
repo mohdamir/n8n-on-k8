@@ -20,9 +20,9 @@ kubectl apply -f n8n-deployment.yaml
 kubectl apply -f n8n-service.yaml
 kubectl apply -f n8n-ingress.yaml
 
-'''
+```
 
-Security Considerations
+### 2. Security Considerations
 
 Enable authentication in n8n configuration
 Configure TLS for your ingress
